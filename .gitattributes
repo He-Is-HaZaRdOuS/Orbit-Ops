@@ -54,3 +54,4 @@ Stars filter=lfs diff=lfs merge=lfs -text
 Skybox/StarSkybox04/CubemapStars.cubemap filter=lfs diff=lfs merge=lfs -text
 Assets/Real[[:space:]]Stars[[:space:]]Skybox/StarSkybox04/CubemapStars.cubemap filter=lfs diff=lfs merge=lfs -text
 Assets/**/* filter=lfs diff=lfs merge=lfs -text
+Assets/Real[[:space:]]Stars[[:space:]]Skybox/StarSkybox04/* filter=lfs diff=lfs merge=lfs -text
